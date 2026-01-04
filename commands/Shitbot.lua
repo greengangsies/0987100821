@@ -3,3 +3,4 @@
       
 _G.OperatorHubAddMessage("Shitbot Loaded!", _G.OperatorHubColors.green)
 _G.OperatorHubAddMessage("Shitbot made by Spooky and Sanchez", _G.OperatorHubColors.gold)
+            end
